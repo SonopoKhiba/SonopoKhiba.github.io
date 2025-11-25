@@ -102,6 +102,7 @@ body {
 .card img {
     width: 180px;
     box-shadow: 200px;
+    border-radius: 10px;
 }
 
 .text-container h2 {
